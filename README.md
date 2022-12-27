@@ -13,4 +13,4 @@
     `tsc`
 
 5. Modo observador:
-    `tsc --watch`
+    `tsc --watch` o `tsc -w`
