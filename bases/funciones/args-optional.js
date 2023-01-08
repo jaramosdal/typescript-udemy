@@ -5,3 +5,4 @@
     };
     const name = fullName('Tony');
 })();
+//# sourceMappingURL=args-optional.js.map

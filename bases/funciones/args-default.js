@@ -10,3 +10,4 @@
     };
     const name = fullName('Tony', 'Stark', true);
 })();
+//# sourceMappingURL=args-default.js.map

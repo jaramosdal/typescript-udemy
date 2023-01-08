@@ -11,3 +11,4 @@
     });
     console.log(numbers);
 })();
+//# sourceMappingURL=arrays.js.map

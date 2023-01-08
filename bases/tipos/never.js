@@ -14,3 +14,4 @@
     console.log(errorCondicional(true, 'Hola'));
     console.log(errorCondicional(false, 'Adios'));
 })();
+//# sourceMappingURL=never.js.map

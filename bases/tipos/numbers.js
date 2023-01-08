@@ -13,3 +13,4 @@
     // Sería NaN, y NaN se considera un número.
     avengers = Number('55A');
 })();
+//# sourceMappingURL=numbers.js.map
