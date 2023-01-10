@@ -10,5 +10,8 @@
     villian.forEach(v => {
         console.log(v.toUpperCase())
     });
+    
+    numbers.forEach(number => console.log(number));
+
     console.log(numbers)
 })()
