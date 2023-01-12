@@ -32,4 +32,5 @@
     const [ , ironman, ] = avengersArr;
 
     console.log(ironman)
+    
 })()
